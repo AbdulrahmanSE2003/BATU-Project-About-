@@ -368,7 +368,7 @@ nav #university-logo a .logo {
 
 #main-section::after {
   content: "";
-  background-image: url(../images/university.jpg);
+  background-image: url(images/university.jpg);
   opacity: unset;
   left: 0;
   position: absolute;
